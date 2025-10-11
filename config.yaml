@@ -1,0 +1,9 @@
+email_conf: {}
+paths: {}
+sort:
+  file_type: ''
+  filter_word: []
+userdata:
+  distributors: []
+  pr_distr: ixora
+  upd_number_adress: {}
